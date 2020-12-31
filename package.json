@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "urijs": "^1.19.1",
+    "urijs": "^1.19.4",
     "vue": "^2.6.10",
     "vue-friendly-iframe": "^0.12.0"
   },
